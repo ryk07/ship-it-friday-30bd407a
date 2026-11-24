@@ -8,8 +8,9 @@ no network, no environment access.
 import os
 
 ENTRY = (
-    "feat: rewrote auth from scratch at 4:59pm Friday \u2014 skipped the tests, "
-    "confidence is a test, deploying now, see you Monday (if we're still up)"
+    "feat: rewrote auth from scratch at 4:59pm Friday \u2014 skipped the tests "
+    "(confidence is a test), deploying to prod now, see you Monday "
+    "(if we're still up)"
 )
 
 
